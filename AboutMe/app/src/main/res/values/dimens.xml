@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_top">5sp</dimen>
+    <dimen name="layout_padding_top">10sp</dimen>
+    <dimen name="text_dimension">20sp</dimen>
+    <dimen name="padding_top">10sp</dimen>
+    <dimen name="margin_top">10sp</dimen>
+    <dimen name="padding_start">10sp</dimen>
+
+</resources>
